@@ -1,0 +1,84 @@
+remotes:
+  Package: remotes
+  Repository: CRAN
+  Version: 2.4.1
+devtri:
+  Package: devtri
+  GithubUsername: ractuary
+  GithubRepo: devtri
+  GithubRef: HEAD
+  GithubSHA1: 5b2ff605b61bbd444d6eeca19ed7d0a4298abccf
+shiny:
+  Package: shiny
+  Repository: CRAN
+  Version: 1.7.0
+shinydashboard:
+  Package: shinydashboard
+  Repository: CRAN
+  Version: 0.7.1
+shinyWidgets:
+  Package: shinyWidgets
+  Repository: CRAN
+  Version: 0.6.2
+shinyjs:
+  Package: shinyjs
+  Repository: CRAN
+  Version: 2.0.0
+shinycssloaders:
+  Package: shinycssloaders
+  Repository: CRAN
+  Version: 1.0.0
+purrr:
+  Package: purrr
+  Repository: CRAN
+  Version: 0.3.4
+lubridate:
+  Package: lubridate
+  Repository: CRAN
+  Version: 1.7.10
+tibble:
+  Package: tibble
+  Repository: CRAN
+  Version: 3.1.4
+dplyr:
+  Package: dplyr
+  Repository: CRAN
+  Version: 1.0.7
+tidyr:
+  Package: tidyr
+  Repository: CRAN
+  Version: 1.1.4
+DT:
+  Package: DT
+  Repository: CRAN
+  Version: '0.19'
+config:
+  Package: config
+  Repository: CRAN
+  Version: 0.3.1
+qs:
+  Package: qs
+  Repository: CRAN
+  Version: 0.25.1
+polished:
+  Package: polished
+  Repository: CRAN
+  Version: 0.4.0
+fs:
+  Package: fs
+  Repository: CRAN
+  Version: 1.5.0
+rlang:
+  Package: rlang
+  Repository: CRAN
+  Version: 0.4.11
+summaryrow:
+  Package: summaryrow
+  GithubUsername: merlinoa
+  GithubRepo: summaryrow
+  GithubRef: HEAD
+  GithubSHA1: 027d02143ef465467f99e887b7c4f024a2445d7f
+htmltools:
+  Package: htmltools
+  Repository: CRAN
+  Version: 0.5.2

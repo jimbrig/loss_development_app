@@ -1,6 +1,9 @@
 # Loss Development Shiny App
 
-## Raodmap
+- Live example: https://jimbrig.shinyapps.io/lossdevt
+- Code: https://github.com/jimbrig/loss_development_app
+
+## Roadmap
 
 A simple shiny web app with the following features:
 
@@ -17,14 +20,15 @@ A simple shiny web app with the following features:
 
 ## Installation
 
+- Clone repo and run `shiny::runApp("shiny_app")` or,
+- Pull docker image and run locally on port 8080:
+
+```bash
+docker run -p 8080:8080 -it ghcr.io/jimbrig/lossdevt:latest
+```
+
 ### Related Projects
 
-- Triangles 
-  - Live example: https://tychobra.shinyapps.io/tri_loss_dev
-  - Code: https://github.com/Tychobra/vml-loss-dev
-- Storyboard with different insurance options (see the Excel sheet provided by
-Adam in docs/Demos.xlsx)
-- Allocation app
 - Online Rater 
   - Live example: https://tychobra.shinyapps.io/online_rater
   - Code: https://github.com/Tychobra/online_rater

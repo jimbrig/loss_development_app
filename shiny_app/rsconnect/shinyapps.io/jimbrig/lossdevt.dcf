@@ -1,0 +1,13 @@
+name: lossdevt
+title: lossdevt
+username:
+account: jimbrig
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4762788
+bundleId: 5086798
+url: https://jimbrig.shinyapps.io/lossdevt/
+when: 1632946123.81964
+lastSyncTime: 1632946123.81964
+asMultiple: FALSE
+asStatic: FALSE
